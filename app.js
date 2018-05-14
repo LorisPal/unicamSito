@@ -1,0 +1,1 @@
+console.log("Questa applicazione è eseguita con node");
